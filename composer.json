@@ -1,5 +1,5 @@
 {
-  "name": "adobre/formation",
+  "name": "tumelaire/formation",
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.4.0"
